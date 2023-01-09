@@ -1,2 +1,2 @@
 # StopWatch
-Stopwatch
+Stopwatch using HTML, JS and CSS
